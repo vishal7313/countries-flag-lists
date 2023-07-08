@@ -451,17 +451,6 @@
     }
   },
   {
-    "id": 45,
-    "name": "China",
-    "isoAlpha2": "CN",
-    "isoAlpha3": "CHN",
-    "currency": {
-      "code": "CNY",
-      "name": "YuanRenminbi",
-      "symbol": "¥"
-    }
-  },
-  {
     "id": 46,
     "name": "Christmas Island",
     "isoAlpha2": "CX",
