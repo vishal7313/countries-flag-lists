@@ -870,17 +870,6 @@
     }
   },
   {
-    "id": 86,
-    "name": "Guadeloupe",
-    "isoAlpha2": "GP",
-    "isoAlpha3": "GLP",
-    "currency": {
-      "code": "EUR",
-      "name": "Euro",
-      "symbol": "€"
-    }
-  },
-  {
     "id": 87,
     "name": "Guam",
     "isoAlpha2": "GU",
