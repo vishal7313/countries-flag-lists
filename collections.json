@@ -16,7 +16,7 @@
   {
     "name": "United States",
     "currency": {
-      "total_banknote": 6,
+      "total_banknote": 17,
       "1": 1,
       "2": 0,
       "5": 1,
@@ -140,7 +140,8 @@
   {
     "name": "Ukraine",
     "currency": {
-      "total_banknote": 1,
+      "total_banknote": 2,
+      "1": 1,
       "2": 1
     }
   },
@@ -161,7 +162,8 @@
   {
     "name": "China",
     "currency": {
-      "total_banknote": 1,
+      "total_banknote": 2,
+      "1": 1,
       "0.5": 1
     }
   }
