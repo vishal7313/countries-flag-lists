@@ -2399,17 +2399,6 @@
     }
   },
   {
-    "id": 233,
-    "name": "Venezuela",
-    "isoAlpha2": "VE",
-    "isoAlpha3": "VEN",
-    "currency": {
-      "code": "VEF",
-      "name": "Bolivar",
-      "symbol": "Bs"
-    }
-  },
-  {
     "id": 234,
     "name": "Vietnam",
     "isoAlpha2": "VN",

@@ -101,5 +101,68 @@
       "1000000": 1,
       "10000000": 1
     }
+  },
+  {
+    "name": "Bhutan",
+    "currency": {
+      "total_banknote": 2,
+      "1": 1,
+      "10": 1
+    }
+  },
+  {
+    "name": "Venezuela",
+    "currency": {
+      "total_banknote": 6,
+      "2": 1,
+      "5": 1,
+      "20": 1,
+      "100": 1,
+      "1000": 1,
+      "20000": 1
+    }
+  },
+  {
+    "name": "Brazil",
+    "currency": {
+      "total_banknote": 1,
+      "1": 1
+    }
+  },
+  {
+    "name": "Vietnam",
+    "currency": {
+      "total_banknote": 2,
+      "2000": 1,
+      "1000": 1
+    }
+  },
+  {
+    "name": "Ukraine",
+    "currency": {
+      "total_banknote": 1,
+      "2": 1
+    }
+  },
+  {
+    "name": "Libya",
+    "currency": {
+      "total_banknote": 1,
+      "1000": 1
+    }
+  },
+  {
+    "name": "Combodia",
+    "currency": {
+      "total_banknote": 1,
+      "200": 1
+    }
+  },
+  {
+    "name": "China",
+    "currency": {
+      "total_banknote": 1,
+      "0.5": 1
+    }
   }
 ]

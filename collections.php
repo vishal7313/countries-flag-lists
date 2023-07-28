@@ -21,12 +21,12 @@
                 $count = 0;
                 
                 // Decode the JSON file
-                foreach ($all_collections as $key => $value) {;
+                foreach ($all_collections as $key => $value) {
                     foreach ($all_countries as $k => $v) {
                         if ($value['name'] === $v['name']) {
                             $no_times_printed = $value['currency']['total_banknote'];
                             $iso_country = strtolower($v['isoAlpha2']);
-        
+
                             for ($i = 0; $i < $no_times_printed; $i++) {
                                 if ($count > 3) { //col-sm-3 only contains 4 column
                                     echo <<<HTML
