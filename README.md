@@ -1,5 +1,6 @@
-# countries-flag-lists
-List of all countries with flags and currency name
+# Currency Collection
+List of all countries with flags and currency name. 
+This project also contains list all my currency collection from around the world.
 
 <div>
   <h1>Sample Image: </h1>
