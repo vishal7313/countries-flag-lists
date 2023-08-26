@@ -121,11 +121,11 @@
   {
     "name": "Venezuela",
     "currency": {
-      "total_banknote": 6,
-      "2": 3,
+      "total_banknote": 30,
+      "2": 2,
       "5": 3,
-      "20": 3,
-      "50": 20,
+      "20": 2,
+      "50": 19,
       "100": 1,
       "1000": 1,
       "20000": 2
@@ -179,9 +179,32 @@
   {
     "name": "Mexico",
     "currency": {
-      "total_banknote": 2,
+      "total_banknote": 3,
+      "500": 1,
       "10": 1,
       "5": 1
+    }
+  },
+  {
+    "name": "DRC",
+    "currency": {
+      "total_banknote": 1,
+      "1000": 1
+    }
+  },
+  {
+    "name": "Uganda",
+    "currency": {
+      "total_banknote": 2,
+      "2000": 1,
+      "1000": 1
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "currency": {
+      "total_banknote": 1,
+      "10": 1
     }
   }
 ]
